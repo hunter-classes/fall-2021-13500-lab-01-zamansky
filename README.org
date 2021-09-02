@@ -8,7 +8,18 @@
 
 * Notes:
 
-I edited this
+** Workflow
+*** First time
+- git clone
+*** Every time you sit down for a session
+- cd into the directory 
+- git pull
+*** Adding a new file
+- git add filename 
+- then commit then push
+*** as you work on files
+- git commit filename.cpp -m "message"
+- then push
 
 * General instructions:
 - Fill in your name and GitHub username on top. Do so by adding the
